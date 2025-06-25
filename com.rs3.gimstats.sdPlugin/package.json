@@ -1,0 +1,8 @@
+{
+  "name": "rs3-gim-stats",
+  "version": "1.0.0",
+  "main": "plugin.js",
+  "description": "Stream Deck plugin for RS3 Group Ironman stats.",
+  "author": "Rustin Clark Michie",
+  "dependencies": {}
+}

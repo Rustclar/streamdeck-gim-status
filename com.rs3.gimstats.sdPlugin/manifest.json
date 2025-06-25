@@ -1,0 +1,21 @@
+{
+  "Actions": [{
+    "UUID": "com.rs3.gimstats.action",
+    "Name": "RS3 GIM Stats",
+    "Tooltip": "Displays RS3 GIM stats",
+    "Icon": "assets/icon",
+    "States": [{
+      "Image": "assets/icon.png",
+      "TitleAlignment": "bottom",
+      "FontSize": "10"
+    }]
+  }],
+  "Name": "RS3 GIM Stats",
+  "Description": "Displays RuneScape GIM stats",
+  "Category": "RS3 Tools",
+  "Author": "Rustin Clark Michie",
+  "CodePath": "plugin.js",
+  "Version": "1.0",
+  "SDKVersion": 2,
+  "OS": [{ "Platform": "windows", "MinimumVersion": "10" }]
+}
